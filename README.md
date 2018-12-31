@@ -12,9 +12,9 @@ Features :
 
 ### Requirements
 
-* [Selenium Webdriver] - HTML enhanced for web apps!
-* [BeautifulSoup] - awesome web-based text editor
-* [Requests] - Markdown parser done right. Fast and easy to extend.
+* [Selenium Webdriver] - To obtain javascript variables with ease!
+* [BeautifulSoup] - awesome html parser!
+* [Requests] - Urllib for humans.
 
 ### Installation
 
