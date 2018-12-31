@@ -20,7 +20,7 @@ Features :
 
 Supports both Py Versions.
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and start scraping.
 
 ```sh
 $ cd instagram-scraper
